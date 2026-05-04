@@ -1,0 +1,2 @@
+Here's some sample plain text to insert into the GitHub directory.
+Using this as a test that inserting files will work when inputting them locally and committing them to the main branch.
